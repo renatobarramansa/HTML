@@ -1,0 +1,10 @@
+ctrl + shift + p = json settings e alterar o arquivo
+
+{
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Origamid Next",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.75,
+    "editor.tabSize": 2
+}
