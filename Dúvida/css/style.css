@@ -3,9 +3,7 @@ body {
   margin: 0px;
   background: #f7f7f7;
   display: grid;
-  gap: 60px;
   justify-items: center;
-  margin-top: 60px;
 }
 
 ul {
@@ -17,14 +15,13 @@ ul {
 .header {
   display: grid;
   justify-items: center;
-  gap: 60px;
 }
 
 .menu {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  justify-content: center;  
+  justify-content: center;
 }
 
 .menu a {
@@ -37,9 +34,3 @@ ul {
   text-transform: uppercase;
   border: 2px solid #fff;
 }
-
-
-
-
-
-
